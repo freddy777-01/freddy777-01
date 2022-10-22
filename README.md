@@ -1,6 +1,6 @@
 👋🏽 Hi, call me **MK** 😎
 - **Career** :
-  - software enginer:<br>
+  - software engineer:<br>
   interests : ``Artificial Inteligence``  ``Game designing``  ``web and mobile`` <br>
   others : `` 3d designing and Animations``<br><br>
   > Am current working on ``React`` ``React Native``  ``Next js`` and ``Javascript`` Projects. <br>

@@ -2,7 +2,7 @@
 - **Career** :
   - software enginer:<br>
   interests : ``Artificial Inteligence``  ``Game designing``  ``web and mobile`` <br>
-  others : `` 3d designing and Animations``<br>
+  others : `` 3d designing and Animations``<br><br>
   > Am current working on ``React`` ``React Native``  ``Next js`` and ``Javascript`` Projects. <br>
   > Other Frameworks worked with: ``Laravel`` and ``Electron js``
 - **Programming Languages**:
@@ -12,8 +12,8 @@
   - C++ ``⭐⭐⭐``
   - Python ``⭐⭐⭐``
 - **Bio** <br>
-  On my free time i love reading books,gaming and little socializing
-- 💞️ I’m available for **collaborate** just ping me
+  On my free time i love reading books,gaming and socializing
+- 💞️ I’m available for **collaborate** just ping me ✌🏽
 - 📫 **How to reach me** ...<br>
   Current only way to reach me is with :<br>
   - ``Telegram`` - **[Telegram](https://t.me/Mk_7_6)**

@@ -1,8 +1,24 @@
-- 👋 Hi, I’m Freddy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋🏽 Hi, call me **MK** 😎
+- **Career** :
+  - software enginer:<br>
+  interests : ``Artificial Inteligence``  ``Game designing``  ``web and mobile`` <br>
+  others : `` 3d designing and Animations``<br>
+  > Am current working on ``React`` ``React Native``  ``Next js`` and ``Javascript`` Projects. <br>
+  > Other Frameworks worked with: ``Laravel`` and ``Electron js``
+- **Programming Languages**:
+  - JavaScript ``⭐⭐⭐⭐⭐``
+  - PHP ``⭐⭐⭐⭐``
+  - Java ``⭐⭐⭐``
+  - C++ ``⭐⭐⭐``
+  - Python ``⭐⭐⭐``
+- **Bio** <br>
+  On my free time i love reading books,gaming and little socializing
+- 💞️ I’m available for **collaborate** just ping me
+- 📫 **How to reach me** ...<br>
+  Current only way to reach me is with :<br>
+  - ``Telegram`` - **[Telegram](https://t.me/Mk_7_6)**
+  - 💌 fred45722@gmail.com <br><br>
+   > 🚨 Not available on other Socials
 
 <!---
 freddy777-01/freddy777-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

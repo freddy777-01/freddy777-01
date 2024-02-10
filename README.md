@@ -7,10 +7,13 @@
   > Other Frameworks worked with: ``Laravel`` and ``Electron js``
 - **Programming Languages**:
   - JavaScript ``⭐⭐⭐⭐⭐``
-  - PHP ``⭐⭐⭐⭐``
+  - Dart ``⭐⭐⭐⭐``
+  - PHP ``⭐⭐⭐``
   - Java ``⭐⭐⭐``
-  - C++ ``⭐⭐⭐``
-  - Python ``⭐⭐⭐``
+  - C++ ``⭐⭐``
+  - Python ``⭐⭐``
+- **Frameworks**
+  - Flutter ⭐⭐⭐⭐
 - **Bio** <br>
   On my free time i love reading books,gaming and socializing
 - 💞️ I’m available for **collaborate** just ping me ✌🏽

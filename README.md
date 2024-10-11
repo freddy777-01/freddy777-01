@@ -4,7 +4,7 @@
   interests : ``Artificial Inteligence``  ``Game designing``  ``web and mobile`` <br>
   others : `` 3d designing and Animations``<br><br>
   > Am current working on ``React`` ``React Native``  ``Next js`` and ``Javascript`` Projects. <br>
-  > Other Frameworks worked with: ``Laravel`` and ``Electron js``
+  > Other Frameworks I use: ``Laravel`` and ``Electron js``
 - **Programming Languages**:
   - JavaScript ``⭐⭐⭐⭐⭐``
   - Dart ``⭐⭐⭐⭐``

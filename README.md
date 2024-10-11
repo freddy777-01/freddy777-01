@@ -3,7 +3,7 @@
   - software engineer:<br>
   interests : ``Artificial Inteligence``  ``Game designing``  ``web and mobile`` <br>
   others : `` 3d designing and Animations``<br><br>
-  - Sales Person:
+  - Sales Person:<br>
     
   > Am current working on ``React`` ``React Native``  ``Next js`` and ``Javascript`` Projects. <br>
   

@@ -3,8 +3,9 @@
   - software engineer:<br>
   interests : ``Artificial Inteligence``  ``Game designing``  ``web and mobile`` <br>
   others : `` 3d designing and Animations``<br><br>
+  - Sales Person:<br>
   > Am current working on ``React`` ``React Native``  ``Next js`` and ``Javascript`` Projects. <br>
-  > Other Frameworks I use: ``Laravel`` and ``Electron js``
+  
 - **Programming Languages**:
   - JavaScript ``⭐⭐⭐⭐⭐``
   - Dart ``⭐⭐⭐⭐``
@@ -13,7 +14,10 @@
   - C++ ``⭐⭐``
   - Python ``⭐⭐``
 - **Frameworks**
-  - Flutter ⭐⭐⭐⭐
+  - Flutter ⭐⭐⭐
+  - Spring boot ⭐⭐⭐
+  - Electron js ⭐⭐⭐⭐
+  - Laravel ⭐⭐⭐⭐
 - **Bio** <br>
   On my free time i love reading books,gaming and socializing
 - 💞️ I’m available for **collaborate** just ping me ✌🏽
